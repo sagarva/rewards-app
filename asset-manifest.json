@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/rewards-app/static/css/main.e6c13ad2.css",
-    "main.js": "/rewards-app/static/js/main.3c9e3168.js",
+    "main.js": "/rewards-app/static/js/main.cdbe64c2.js",
     "static/js/453.642a3a17.chunk.js": "/rewards-app/static/js/453.642a3a17.chunk.js",
     "index.html": "/rewards-app/index.html",
     "main.e6c13ad2.css.map": "/rewards-app/static/css/main.e6c13ad2.css.map",
-    "main.3c9e3168.js.map": "/rewards-app/static/js/main.3c9e3168.js.map",
+    "main.cdbe64c2.js.map": "/rewards-app/static/js/main.cdbe64c2.js.map",
     "453.642a3a17.chunk.js.map": "/rewards-app/static/js/453.642a3a17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3c9e3168.js"
+    "static/js/main.cdbe64c2.js"
   ]
 }
