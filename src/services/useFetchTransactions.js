@@ -9,7 +9,7 @@ export default function useFetchTransactions() {
   useEffect(() => {
     let mounted = true;
 
-    fetch("/data/transactions.json")
+    fetch("https://raw.githubusercontent.com/sagarva/rewards-app/refs/heads/main/public/data/transactions.json")
       .then((res) => {
         if (!res.ok) throw new Error("Network response not ok");
         return res.json();
